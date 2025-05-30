@@ -2,15 +2,15 @@
 <head>
   <title>ประวัติส่วนตัว</title
 </head>
-<body>
+<body bgcolor="skyblue">
   <h1><marguee>ยินดีต้อนรับเข้าสู่ประวัติส่วนตัวของฉัน</marquee></h1>
 <center>
-  <font style="color:pink">ชื่อ ด.ช ณัฐกิตติ์ กิตติธร ม.211 เลขที่29 </font>
-  <font style="color:red">ปัจจุบันอยู่ที่โรงเรียนสวนกุหลาบวิทยาลัย</font>
-  <font style="color:blue">ชื่อเล่น : พีค</font>
-  <font style="color:green">อายุ : 13 ปี</font>
-  <font style="color:brown">ผลไม้ที่ชอบ : กล้วย</font>
-  <font style="color:violet">เครื่องดื่มที่ชอบ : โก้โก้</font>
+  <font style="color:pink">ชื่อ ด.ช ณัฐกิตติ์ กิตติธร ม.211 เลขที่29 </font><br><br>
+  <font style="color:red">ปัจจุบันอยู่ที่โรงเรียนสวนกุหลาบวิทยาลัย</font><br><br>
+  <font style="color:blue">ชื่อเล่น : พีค</font><br><br>
+  <font style="color:green">อายุ : 13 ปี</font><br><br>
+  <font style="color:brown">ผลไม้ที่ชอบ : กล้วย</font><br><br>
+  <font style="color:violet">เครื่องดื่มที่ชอบ : โก้โก้</font><br><br>
   <font style="color:yellow">ข้อมูลติดต่อ : tel:0659301975</font>
 </center>
 </body>
