@@ -85,8 +85,19 @@
       <textarea name="comment" rows="4" placeholder="ใส่ความคิดเห็นของคุณ"></textarea>
     </label>
     <br><br>
-    
+    <button type="submit">ส่งข้อมูล</button>
   </form>
+    <p id="respond"></p>
+
+
+    <script>
+      const form = document.getElementById('studentform')
+      const resposeE1 = document.getElementById('response')
+      Form.onsubmit = e =>{
+      e.preventDefaut();
+        fetch('')
+      }
+        </script>
   </center>
   </body>
 </html>
